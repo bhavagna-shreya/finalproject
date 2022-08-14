@@ -4,7 +4,7 @@ this is my final frt project
 
 This is a web based application developed for travel related website in india
 
-### This web based restaurant application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
+### This web based travel application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
 
 **Project Link** - https://thankful-dune-0c13acc10.1.azurestaticapps.net/
