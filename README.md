@@ -23,5 +23,4 @@ This is a web based application developed for travel related website in india
 - [Azure(Hosting)](https://thankful-dune-0c13acc10.1.azurestaticapps.net/)
 - HTML
 - CSS
-- Bootstrap
-- JavaScript
+
